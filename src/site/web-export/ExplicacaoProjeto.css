@@ -1,0 +1,30 @@
+html{
+	font-family: "arial";
+	background-color: #515151;
+}
+
+body{
+	margin: 0;
+}
+
+div{
+	margin: 50px 200px 50px 200px;
+	text-align:justify;
+	background-color: #F4F4F4;
+	border: 25px solid #616161;
+	padding: 30px;
+}
+
+figure {
+	margin: 0;
+}
+
+h1, h2 {
+	text-align: center;
+	margin: 0;
+}
+
+.grid {
+	text-align: center;
+    display: block;
+}

@@ -1,0 +1,33 @@
+Salvador é a cidade que possui menor atividade total e por habitante no Foursquare.
+Salvador é a terceira cidade mais populosa do país, tem inúmeros pontos turísticos, mas mesmo
+ assim surpreendentemente é a cidade das do estudo com menos atividade no Foursquare.
+#
+Diversidade de Salvador é a maior dentre as maiores cidades de cada região do Brasil.
+Diversidade representa o número de usuários por lugar, surpreendentemente a de Salvador é alta já que seu número de usuários é 
+baixo(menor atividade de todas as cidades do estudo) e ela é uma grande cidade com inumeros lugares, 
+caracteristicas essas que fazem com que a diversidade seja baixa.
+#
+Diversidade nas cidades do interior tendem a ser maiores que nas capitais, com exceção de Salvador.
+Diversidade representa o número de usuários por lugar, como as cidades do interior são menores 
+e tem menos lugares que as capitais, isso explica esse fato da manchete ocorrer.
+#
+São Paulo é apenas a 25º cidade em cobertura.
+São Paulo é a cidade mais populosa do Brasil, mas o fato de ser também a maior cidade do país faz com que ela tenha uma cobertura
+(representa quão distribuidas são as marcações pela cidade) tão baixa.
+#
+Desbancando as capitais, no Nordeste Olinda é a cidade com maior cobertura.
+informação 7
+#
+Em Salvador o Foursquare é usado de pouquíssimos lugares. 
+Salvador é a cidade do estudo com menos atividade, mas mesmo assim tem a terceira maior diversidade, que representa o número de usuarios
+ por lugar, ou seja, apesar do número baixo de usuários, os lugares acessados(marcados) são tão poucos que sua diversidade se torna grande.
+#
+Macapá é a segunda cidade mais ativa.
+Macapá apenas a 41ª cidade mais populosa do Brasil, é a que apresenta a segunda maior atividade no Foursquare do país, 
+perdendo apenas para São Paulo, que tem população quase 30 vezes maior que a dela.
+#
+Centro-Oeste é a região menos ativa.
+Centro-Oeste é a segunda maior região do país, mas a menos populosa. Apesar de menos populosa, ela apresenta 
+grandes concentrações urbanas. O que faz com que nesse estudo ela seja representada por três cidades, igualmente a região 
+Norte e mais cidades que na região Sul, ou seja, observando a população das cidades do estudo ela é a terceira região mais populosa.
+#
