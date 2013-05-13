@@ -1,0 +1,11 @@
+Atividade,capital,0.3045356,0.3201484
+Atividade,populacao,0.4584484,0.4740612
+Atualidade,IDHM,0.2018723,0.2175174
+Atualidade,populacao,0.2813154,0.2969605
+Diversidade,capital,-0.3287797,-0.3138258
+Diversidade,taxas,0.4310173,0.4459712
+Densidade,IFDM,-0.2739466,-0.2580033
+AtividadePor100Hab,populacao,-0.5404786,-0.5201604
+AtividadePor100Hab,capital,0.6257912,0.6472572
+AtividadePor100Hab,IFDM,-0.225248,-0.2084833
+AtividadePor100Hab,Taxas,-0.2908721,-0.2728817

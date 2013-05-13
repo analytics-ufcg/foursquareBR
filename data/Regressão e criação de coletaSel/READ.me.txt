@@ -1,0 +1,7 @@
+Muda 'CG' por 'Campina_Grande' em coletaSelByAtividade60.csv
+Usar montaTabela, com coletaSelByAtividade60.csv como entrada, para criar a tabela com todos os fatores urbanos junto às métricas do foursquare.
+Copia coletaSel, gerado pelo montaTabela para a pasta externa a essa.
+Usa coletaSel em Regressoes para gerar o arquivo modelSummary.csv.
+Usa modelSummary.csv e coletaSel como entrada para calculaCoeficientes para gerar coeficientes.csv.
+Usa coeficientes.csv e coletaSel como entrada para calculaCoeficientesNormalizados e obter os valores dos coeficientes.
+Usa esses valores para gerar tabela de coeficientes normalizados.
